@@ -24,3 +24,7 @@ Each student record includes:
 - Spring MVC
 - Thymeleaf (if using front-end)
 - H2 / MySQL Database
+
+## Architecture Diagram
+<img width="1918" height="977" alt="StudentManagementSystemArch" src="https://github.com/user-attachments/assets/9164742e-de84-4297-a4d0-5134febef7b5" />
+
